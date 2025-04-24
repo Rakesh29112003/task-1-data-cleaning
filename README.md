@@ -12,8 +12,8 @@ To clean and prepare raw data for machine learning using the Titanic dataset. Th
 
 ## 📁 Dataset
 
-- **Source**: [Titanic Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
-- **Used File**: `titanic.csv`
+- **Source**: [Titanic Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset?select=Titanic-Dataset.csv)
+- **File Used**: `Titanic-Dataset.csv`
 
 ---
 
@@ -54,7 +54,7 @@ To clean and prepare raw data for machine learning using the Titanic dataset. Th
 ## 📈 Final Output
 
 - Cleaned dataset ready for machine learning.
-- Final shape after preprocessing: *(depends on your result, e.g., 870 rows × 9 columns)*
+- Final shape after preprocessing: *(e.g., 870 rows × 9 columns, update this if needed)*
 
 ---
 
